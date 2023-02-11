@@ -30,7 +30,7 @@
 - ❓ Ask me about anything related to Spring Boot  
 
 
-</td><td valign="top" width="50%">
+</td><td valign="top" width="100%">
 
 
 
@@ -94,4 +94,3 @@
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
