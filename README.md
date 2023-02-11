@@ -22,16 +22,12 @@
 
 
 ## Rapidfire  
-<table><tr><td valign="top" width="50%">
+<table><tr><td valign="top" width="100%">
 
 - 🌱 I’m currently learning ReactJs  
   
 
 - ❓ Ask me about anything related to Spring Boot  
-
-
-</td><td valign="top" width="100%">
-
 
 
 </td></tr></table>  
@@ -86,11 +82,6 @@
 
 <br/>  
 
-  
-
-<br/>  
-
-
-<br />
+ 
 
 ----
