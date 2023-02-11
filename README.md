@@ -1,13 +1,13 @@
 ## Hey 👋, I'm [Utkarsh Goyal!](https://utkarshportfolio-d0034.web.app/)  
   
 
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/utkarsh-goyal-2b3613168/" target="_blank">
+<a href="https://linkedin.com/in/utkarsh-goyal-2b3613168/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://instagram.com/https://www.instagram.com/utkarsh_goyal_/" target="_blank">
+<a href="https://instagram.com/utkarsh_goyal_/" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
-<a href="https://github.com/https://github.com/utkarshgoyal5" target="_blank">
+<a href="https://github.com/utkarshgoyal5" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>  
   
