@@ -40,10 +40,11 @@ I'm proficient in a variety of languages and tools. Some of them include:
 ## 🌱 Currently, I'm learning:
 
 - ReactJs
+- The use of prompts in LLM AI
 
 ## ❓ Ask me about:
 
-Anything related to Spring Boot. I'd be happy to help!
+Anything related to Spring Boot and ReactJs. I'd be happy to help!
 
 ## GitHub Stats:
 
