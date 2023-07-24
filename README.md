@@ -7,6 +7,26 @@ Welcome to my GitHub profile! I'm a Full Stack Developer with 2 years of experie
 - Portfolio: <a href="https://utkarshgoyal.in" target="_blank">utkarshgoyal.in</a>
 - LinkedIn: <a href="https://linkedin.com/in/utkarsh-goyal-2b3613168/" target="_blank">Utkarsh Goyal</a>
 - GitHub: <a href="https://github.com/utkarshgoyal5" target="_blank">utkarshgoyal5</a>
+
+## 💼 Skills:
+
+<div align="center">  
+  <a href="https://reactjs.org/" target="_blank"><img class="animated-icon" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="60" /></a>
+  <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img class="animated-icon" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="60" /></a>
+  <a href="https://www.w3schools.com/css/" target="_blank"><img class="animated-icon" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="60" /></a>
+  <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img class="animated-icon" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="60" /></a>
+  <!-- Add more skills icons with the same class -->
+</div>
+
+<style>
+  .animated-icon {
+    transition: transform 0.3s ease-in-out;
+  }
+  .animated-icon:hover {
+    transform: scale(1.1);
+  }
+</style>
+
 ## 💼 Skills:
 
 I'm proficient in a variety of languages and tools. Some of them include:
