@@ -15,7 +15,7 @@
 
 
 ### Glad to see you here!  
-*I am a full-stack developer with a passion for coding. With over 1 year of experience, I have a strong knowledge of ReactJS and Spring Boot. My expertise in these technologies has allowed me to create dynamic and scalable web applications. I am a problem solver and love to find creative solutions to complex challenges. My goal is to continuously improve my skills and deliver high-quality code. I believe that coding is a never-ending journey of learning and I am excited to continue growing as a developer.*  
+*Full Stack Developer with 2 years of experience in ReactJS and Spring Boot. Skilled in designing and developing dynamic and scalable web applications. Strong problem-solving abilities and a passion for finding creative solutions. Committed to continuous learning and delivering high-quality code.*  
   
 
 <br/>  
