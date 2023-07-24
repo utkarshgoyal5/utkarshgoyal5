@@ -13,30 +13,28 @@ Welcome to my GitHub profile! I'm a Full Stack Developer with 2 years of experie
 
 I'm proficient in a variety of languages and tools. Some of them include:
 
-<div align="center">  
-  <img style="margin: 50px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="60" />
-  <img style="margin: 50px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="60" />
-  <img style="margin: 50px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="60" />
-  <img style="margin: 50px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="60" />
-  <img style="margin: 50px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="60" />
-  <img style="margin: 50px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="60" />
-  <img style="margin: 50px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="60" />
-  <img style="margin: 50px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="60" />
-  <img style="margin: 50px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="60" />
-  <img style="margin: 50px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="60" />
-  <img style="margin: 50px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="60" />
-  <img style="margin: 50px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="60" />
-  <img style="margin: 50px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="60" />
-  <img style="margin: 50px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="60" />
-  <img style="margin: 50px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="60" />
-  <img style="margin: 50px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" height="60" />
-  <img style="margin: 50px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="60" />
-  <img style="margin: 50px" src="https://profilinator.rishav.dev/skills-assets/kotlinlang-icon.svg" alt="Kotlin" height="60" />
-  <img style="margin: 50px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="60" />
-  <img style="margin: 50px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="60" />
-  <img style="margin: 50px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="60" />
-  <img style="margin: 50px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="60" />
-  <img style="margin: 50px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="60" />
+<div align="center"> 
+  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="80" />&nbsp;&nbsp;
+  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" height="80" />&nbsp;&nbsp;
+  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="80" />&nbsp;&nbsp;
+  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="80" />&nbsp;&nbsp;
+  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="80" />&nbsp;&nbsp;
+  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="80" />&nbsp;&nbsp;
+  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="80" />&nbsp;&nbsp;
+  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="80" />&nbsp;&nbsp;
+  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="80" />&nbsp;&nbsp;
+  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="80" />&nbsp;&nbsp;
+  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="80" />&nbsp;&nbsp;
+  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="80" />&nbsp;&nbsp;
+  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="80" />&nbsp;&nbsp;
+  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="80" />&nbsp;&nbsp;
+  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="80" />&nbsp;&nbsp;
+  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="80" />&nbsp;&nbsp;
+  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="80" />&nbsp;&nbsp;
+  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kotlinlang-icon.svg" alt="Kotlin" height="80" />&nbsp;&nbsp;
+  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="80" />&nbsp;&nbsp;
+  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="80" />&nbsp;&nbsp;
+  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="80" />&nbsp;&nbsp;
 </div>
 
 ## 🌱 Currently, I'm learning:
