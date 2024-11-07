@@ -1,6 +1,6 @@
 # Hey there, I'm <a href="https://utkarshgoyal.in" target="_blank">Utkarsh Goyal</a>! 👋
 
-Welcome to my GitHub profile! I'm a Full Stack Developer with 3 years of experience in ReactJS and Spring Boot. I have a passion for designing and developing dynamic and scalable web applications, and I'm always eager to find creative solutions to challenges. Continuous learning is my mantra, and I'm committed to delivering high-quality code.
+Welcome to my GitHub profile! I'm a Full Stack Developer with 3 years of experience in Spring Frameworks and ReactJS. I have a passion for designing and developing dynamic and scalable web applications, and I'm always eager to find creative solutions to challenges. Continuous learning is my mantra, and I'm committed to delivering high-quality code.
 
 ## 📫 How to reach me:
 
